@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Novin Shahroudi"
-  avatar           : "https://mmistakes.github.io/minimal-mistakes/assets/images/michael-rose.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://avatars0.githubusercontent.com/u/2837237?s=400&v=4" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a PhD student in Machine Learning, enthusiast about Software 2.0"
   location         : "Tartu, Estonia"
   email            : "novin@ut.ee"
