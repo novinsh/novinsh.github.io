@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: About
+title: "About"
 excerpt: A quick intro about who I am and what I do
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
@@ -12,7 +12,7 @@ layouts_gallery:
   - url: /assets/images/mm-layout-archive.png
     image_path: /assets/images/mm-layout-archive.png
     alt: archive layout example
-last_modified_at: {}
+last_modified_at: 2020-04-16T00:00:00+00:00
 toc: true
 author_profile: true
 published: true
