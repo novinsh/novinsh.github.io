@@ -5,15 +5,14 @@ header:
   image: /assets/images/unsplash-gallery-image-1.jpg
   teaser: assets/images/unsplash-gallery-image-1-th.jpg
 sidebar:
-  - title: "Year"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "2019"
   - title: "Supervisors"
+    image: /assets/images/cs-ut-logo.png 
+    image_alt: "logo"
     text: "Meelis Kull, Sebastian Haglund El Gaidi, Erik Ylipää"
+  - title: "Year"
+    text: "2019"
   - title: "Links"
-    text: "Master thesis"
-    url: "https://comserv.cs.ut.ee/ati_thesis/datasheet.php?language=en"
+    url: https://comserv.cs.ut.ee/ati_thesis/datasheet.php?language=en
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
