@@ -12,7 +12,7 @@ sidebar:
   - title: "Year"
     text: "2019"
   - title: "Links"
-    url: https://comserv.cs.ut.ee/ati_thesis/datasheet.php?language=en
+    text: [thesis text (eng)](https://comserv.cs.ut.ee/ati_thesis/datasheet.php?language=en)
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
