@@ -11,8 +11,6 @@ sidebar:
     text: "Meelis Kull, Sebastian Haglund El Gaidi, Erik Ylipää"
   - title: "Year"
     text: "2019"
-  - title: "Links"
-    text: [thesis text (eng)](https://comserv.cs.ut.ee/ati_thesis/datasheet.php?language=en)
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
@@ -31,4 +29,5 @@ Last year I completed my master thesis which was conducted jointly with [Greenly
 
 Integration of intelligent systems in our industries and society require more accurate and reliable algorithms. Recent attempts to model and explain uncertainty in deep learning has had many achievements, stepping forward toward making these models more reliable and respectively more practical. At the same time, probabilistic forecasting is a similar attempt to estimate the future value of a variable by a probabilistic expression rather a point estimate. The former is more useful as it incorporates uncertainty information on the forecast while the latter lacks this. To this day, there has not been much research or study on probabilistic forecasts with Bayesian deep learning, making it an interesting area for contribution. We considered this research to be more interesting by carrying it out on a real-world problem and therefore, chose the wind power forecast beside the analytical study. We applied Monte-Carlo Dropout (MCDO), a variant of deep Bayesian network approximator, together with a network capable of estimating the variance. This predictive variance, produced by the model, is equivalent to a probabilistic forecast and further, we show how to obtain higher quality forecasts that are accurate and better-calibrated by scenario forecasting at test-time. We also show that the results of the MCDO implementation were consistent with other works. Moreover, our approach proved to be capable of producing a high-quality probabilistic forecast with rather a simple setup and no special treatment. Results obtained in this thesis not only reflect on probabilistic forecasting but, also on the Bayesian deep learning. Our experiments show a successful use case of employing Bayesian deep learning and suggest that these methods are the way to go, with promises on improving the accuracy, scalability, and interpretability.
 
-
+[Linked to the thesis (English)](https://comserv.cs.ut.ee/ati_thesis/datasheet.php?language=en)
+[Linked to the thesis (Estonian)](https://comserv.cs.ut.ee/ati_thesis/datasheet.php?language=et)
