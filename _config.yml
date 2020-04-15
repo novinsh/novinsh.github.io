@@ -18,7 +18,7 @@ minimal_mistakes_skin    :  "default" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "en-US"
 title                    : "Import this"
 title_separator          : "-"
-subtitle                 : "Note of a PhD student."
+subtitle                 : "Yet another PhD student and his notes."
 name                     : "Novin Shahroudi"
 description              : "PhD student in Machine Learning"
 url                      : "https://novinsh.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
