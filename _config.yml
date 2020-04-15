@@ -18,14 +18,14 @@ minimal_mistakes_skin    :  "default" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "en-US"
 title                    : "Import this"
 title_separator          : "-"
-subtitle                 : "Simple is better than complex."
+subtitle                 : "Note of a PhD student."
 name                     : "Novin Shahroudi"
 description              : "PhD student in Machine Learning"
 url                      : "https://novinsh.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "https://avatars0.githubusercontent.com/u/2837237?s=400&v=4" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -123,13 +123,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/novinsh"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/novinsh"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -138,7 +138,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "http://instagram.com/novinsh"
 
 
 # Reading Files
